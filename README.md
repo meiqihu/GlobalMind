@@ -7,6 +7,9 @@ The code will be released soon.
 # Paper
 [GlobalMind: Global multi-head interactive self-attention network for hyperspectral change detection](https://www.sciencedirect.com/science/article/pii/S0924271624001539)
 
+The GF5B_BI dataset is available at [BaiduCloud]:https://pan.baidu.com/s/1_6-95KzvbaFM4z0L203AdQ?pwd=tfhx  (code:tfhx)
+
+
 Please cite our paper if you find it useful for your research.
 @article{hu2024globalmind,
   title={GlobalMind: Global multi-head interactive self-attention network for hyperspectral change detection},
