@@ -7,7 +7,7 @@ Pytorch implementation of ISPRS paper "GlobalMind: Global multi-head interactive
 [GlobalMind: Global multi-head interactive self-attention network for hyperspectral change detection](https://www.sciencedirect.com/science/article/pii/S0924271624001539)
 
 # Data
-We perform extensive experiments on six real hyperspectral datasets:'Farmland','Hermiston','River','Bay','Barbara','GF5B_BI'.
+We perform extensive experiments on six real hyperspectral datasets: ##Farmland, ##Hermiston,River,Bay,Barbara,GF5B_BI.
 
 All six hyperspectral binary change detection datasets are provided here [BaiduCloud]:https://pan.baidu.com/s/1-pw4jrd-xp7QHPS067mV7g?pwd=aey7 (code=aey7).
 
