@@ -11,7 +11,7 @@ We perform extensive experiments on six real hyperspectral datasets:'Farmland','
 
 All six hyperspectral binary change detection datasets are provided here [BaiduCloud]:https://pan.baidu.com/s/1-pw4jrd-xp7QHPS067mV7g?pwd=aey7 (code=aey7).
 
-![image](https://github.com/meiqihu/GlobalMind/blob/main/Dataset Of HyperspectralBCD.png)
+![image](https://github.com/meiqihu/GlobalMind/blob/main/DatasetOfHyperspectralBCD.png)
 
 # Results
 The binary change detection results of propose GlobalMIND are available at: [BaiduCloud]: https://pan.baidu.com/s/1bgOzlOTMeu0jCTJkAl42ng?pwd=ny2i (code= ny2i)
