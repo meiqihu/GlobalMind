@@ -16,6 +16,7 @@ All six hyperspectral binary change detection datasets are provided here [BaiduC
 # Results
 The binary change detection results of propose GlobalMIND are available at: [BaiduCloud]: https://pan.baidu.com/s/1bgOzlOTMeu0jCTJkAl42ng?pwd=ny2i (code= ny2i)
 
+# Citation
 
 Please cite our paper if you find it useful for your research.
 @article{hu2024globalmind,
